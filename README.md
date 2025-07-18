@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davideciancaofficial
 - 👀 I’m interested in engineering
-- 🌱 I’m currently an artificial intelligence reaearcher  
+- 🌱 I’m currently an artificial intelligence researcher
 
 
 <!---
